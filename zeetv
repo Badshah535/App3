@@ -5,7 +5,7 @@
    "app_dialogBeforeAdShow":"0",
    "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
    "app_howShowAd":"0",
-   "qureka":"http://282.win.qureka.com/",
+   "qureka":"https://282.win.predchamp.com",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
    "admob_showAdStatus":"1",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
@@ -14,10 +14,10 @@
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
    "fbad_showStatus":"1",
-   "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_inter3":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "fb_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+   "fb_banner":"969396043812121_969396377145421",
+   "fb_inter1":"969396043812121_969428527142206",
+   "fb_inter2":"969396043812121_969428560475536",
+   "fb_inter3":"969396043812121_969428810475511",
+   "fb_native":"969396043812121_969428300475562",
+   "fb_nativebanner":"969396043812121_969428367142222"
 }
